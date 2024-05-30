@@ -3,7 +3,7 @@
 I am Anesu Prince Ndava, people call me Aneh,neanea, a self certified computer science graduate from [Zimbabwe). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnesuNdava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anesu-ndava/)](https://www.linkedin.com/in/anesu-ndava/)
-[![Instagram Badge](https://img.shields.io/badge/-AnesuPrinceNdava-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iam_anesuprince/)](https://instagram.com/iam_anesuprince)
+[![Instagram Badge](https://img.shields.io/badge/-iam_anesuprince-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iam_anesuprince/)](https://instagram.com/iam_anesuprince)
 [![Youtube Badge](https://img.shields.io/badge/-PRINCE-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/anesundava)](https://www.youtube.com/c/anesundava)
 [![Medium Badge](https://img.shields.io/badge/-@anesuprince-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-ndabaprinco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndabaprinco@gmail.com)](mailto:ndabaprinco@gmail.com)
